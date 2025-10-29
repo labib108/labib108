@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labib108" alt="labib108" /></a> </p>
 
-- 🔭 I’m currently working on **Ensuring Electronic Health Record Privacy with Zero-Knowledge Proofs and Blockchain**
+- 🔭 I’m currently working on **Jafran - A Restaurant Management System**
 
-- 🌱 I’m currently learning **Blockchain Technologies.**
+- 🌱 I’m currently learning **Flutter Technologies.**
 
-- 👯 I’m looking to collaborate on **Blockchain Projects**
+- 👯 I’m looking to collaborate on **Laravel and Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/labib108](https://github.com/labib108)
 
-- 💬 Ask me about **React, Vue.js, PHP, Laravel**
+- 💬 Ask me about **React, PHP, Laravel**
 
 - 📫 How to reach me **abubuckkersiddikh@gmail.com**
 
