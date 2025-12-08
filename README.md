@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abu Backkar Siddiq — Software Engineer</h1>
 <h3 align="center">KUET CSE Graduate | Software Engineer 📍 From Bangladesh </h3>
 
-<p align="left"> <img src="labib.jpg" alt="labib108" /> </p>
+<p align="center">
+  <img src="labib.jpg" alt="Labib Profile" width="200" style="border-radius: 10px;" />
+</p>
 
-<p align="left"> <a href="https://labib108.vercel.app/"><img src="labib.jpg" alt="labib108" /></a> </p>
+<p align="center">
+  <a href="https://labib108.vercel.app/">
+    <img src="labib.jpg" alt="Portfolio Preview" width="200" style="border-radius: 10px;" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on **Jafran - A Restaurant Management System**
 - 💼 I am currently working as a **Full Stack Developer** at **BAE Innovation** (Remote).
