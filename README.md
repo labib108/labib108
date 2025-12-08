@@ -5,12 +5,12 @@
 - 🔭 I’m currently working on **Jafran - A Restaurant Management System**
 - 💼 I am currently working as a **Full Stack Developer** at **BAE Innovation** (Remote).
 - ⛓️ I am also working as a **Blockchain Developer** at **SpearkTech Agency** (Full-Time).
-- 🌱 I’m an expert in **Blockchain Technologies.**
+- 🌱 I’m an expert in **Full Stack Development and Blockchain Technologies.**
 - 💡 I’m currently learning **Advanced Blockchain Concepts.**
 - 👯 I’m looking to collaborate on **Blockchain Projects**
 - 🌐 View my **Portfolio** at [https://labib108.vercel.app/](https://labib108.vercel.app/)
 - 👨‍💻 All of my projects are available at [https://github.com/labib108](https://github.com/labib108)
-- 💬 Ask me about **React, PHP, Laravel**
+- 💬 Ask me about **React.JS, Next.JS, PHP, Laravel, Blockchain**
 - 📫 How to reach me **abubuckkersiddikh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
