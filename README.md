@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abu Backkar Siddiq — Software Engineer</h1>
 <h3 align="center">KUET CSE Graduate | Software Engineer 📍 From Bangladesh </h3>
 
-<p>
-  <img src="labib.jpg" alt="Labib Profile" width="200" style="border-radius: 10px;" />
-</p>
+
 - 🔭 I’m currently working on **Jafran - A Restaurant Management System**
 - 💼 I am currently working as a **Full Stack Developer** at **BAE Innovation** (Remote).
 - ⛓️ I am also working as a **Blockchain Developer** at **SpearkTech Agency** (Full-Time).
