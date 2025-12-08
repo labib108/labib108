@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sheikh Abu Backkar Siddiq — Software Engineer</h1>
 <h3 align="center">KUET CSE Graduate | Software Engineer 📍 From Bangladesh </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labib108&label=Profile%20views&color=0e75b6&style=flat" alt="labib108" /> </p>
+<p align="left"> <img src="labib.jpg" alt="labib108" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labib108" alt="labib108" /></a> </p>
+<p align="left"> <a href="https://labib108.vercel.app/"><img src="labib.jpg" alt="labib108" /></a> </p>
 
 - 🔭 I’m currently working on **Jafran - A Restaurant Management System**
 - 💼 I am currently working as a **Full Stack Developer** at **BAE Innovation** (Remote).
