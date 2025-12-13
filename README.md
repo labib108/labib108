@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sheikh Abu Backkar Siddiq — Software Engineer</h1>
+<h1 align="center">Sheikh Abu Backkar Siddiq - Software Engineer</h1>
 <h3 align="center">KUET CSE Graduate | Software Engineer 📍 From Bangladesh </h3>
 
+---
 
-- 🔭 I’m currently working on **Jafran - A Restaurant Management System**
-- 💼 I am currently working as a **Full Stack Developer** at **BAE Innovation** (Remote).
-- ⛓️ I am also working as a **Blockchain Developer** at **SpearkTech Agency** (Full-Time).
-- 🌱 I’m an expert in **Full Stack Development and Blockchain Technologies.**
-- 💡 I’m currently learning **Advanced Blockchain Concepts.**
-- 👯 I’m looking to collaborate on **Blockchain Projects**
-- 🌐 View my **Portfolio** at [https://labib108.vercel.app/](https://labib108.vercel.app/)
-- 👨‍💻 All of my projects are available at [https://github.com/labib108](https://github.com/labib108)
-- 💬 Ask me about **React.JS, Next.JS, PHP, Laravel, Blockchain**
-- 📫 How to reach me **abubuckkersiddikh@gmail.com**
+- 💼 **Full Stack Developer** at **BAE Innovation** (Remote).
+- ⛓️ **Blockchain Developer** at **SpearkTech Agency** (Full-Time).
+- 👯 Open to collaboration on **Blockchain & Web Development Projects**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Portfolio & Projects
+- 🌐 **Portfolio:** [https://labib108.vercel.app/](https://labib108.vercel.app/)  
+- 👨‍💻 **GitHub Projects:** [https://github.com/labib108](https://github.com/labib108)  
+
+---
+
+<h3 align="left">Contact</h3>
 <p align="left">
 <a href="https://twitter.com/labib_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="labib_20" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abu-buckker-siddikh-labib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abu-buckker-siddikh-labib/" height="30" width="40" /></a>
@@ -23,6 +25,7 @@
 <a href="https://codeforces.com/profile/labib_1907108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/labib_1907108" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/labib108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/labib108/" height="30" width="40" /></a>
 </p>
+📫 Email: <a>abubuckkersiddikh@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -52,8 +55,14 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=labib108&show_icons=true&locale=en&layout=compact" alt="labib108" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labib108&show_icons=true&locale=en" alt="labib108" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labib108&" alt="labib108" /></p>
+## GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=labib108&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labib108&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib108&layout=compact&theme=radical" alt="Top Languages" />
+</p>
