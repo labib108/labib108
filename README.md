@@ -1,5 +1,5 @@
-<h1 align="center">Sheikh Abu Backkar Siddiq - Software Engineer</h1>
-<h3 align="center">KUET CSE Graduate | Software Engineer 📍 From Bangladesh </h3>
+<h1 align="center">Sheikh Abu Backkar Siddiq (Labib) </h1>
+<h3 align="center">KUET CSE Graduate | Software Engineer | From Bangladesh </h3>
 
 ---
 
@@ -55,14 +55,13 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+## GitHub Status
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=labib108&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labib108&theme=radical" alt="GitHub Streak" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib108&layout=compact&theme=radical" alt="Top Languages" height="120"/>
+</div>
 
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=labib108&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=labib108&theme=radical" alt="GitHub Streak" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labib108&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
